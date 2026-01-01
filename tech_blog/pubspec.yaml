@@ -38,6 +38,7 @@ dependencies:
   flutter_localizations:
     sdk: flutter
   intl: any
+  flutter_spinkit: ^5.2.2
 
 dev_dependencies:
   flutter_test:
@@ -80,9 +81,9 @@ flutter:
   fonts:
     - family: dana
       fonts:
-        - asset: assets/fonts/dana/Dana-Bold.ttf
+        - asset: assets/fonts/Dana-Bold.ttf
           weight: 700   
-        - asset: assets/fonts/dana/Dana-Regular.ttf
+        - asset: assets/fonts/Dana-Regular.ttf
           weight: 300   
   #   - family: Trajan Pro
   #     fonts:
